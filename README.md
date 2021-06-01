@@ -16,7 +16,6 @@ These remote job sites advertise a range of jobs in the tech industry.
 | ❇️ | [Github](https://jobs.github.com/positions?description=&location=remote) | Github allows you to search for remote jobs on its jobs board |
 | ❇️ | [Go Remote Jobs](https://goremotejobs.com/) | The best remote jobs for the digitally inclined.       |
 | ❇️ | [Indeed.com](https://www.indeed.com/q-Remote-Programming-jobs.html) | Employer's offers of remote programming jobs. |
-| ❇️ | [Jobscribe](http://jobscribe.com) | Daily email with remote jobs at tech startups.       |
 | ❇️ | [Jobspresso](https://jobspresso.co/) | Expertly curated remote jobs in tech, marketing, customer support and more. |
 | ❇️ | [Landing.jobs](https://landing.jobs/jobs?remote=true) | Curated list of remote jobs, with partially remote opportunities as well in Europe. |
 | ❇️ | [Larajobs](http://larajobs.com) | LaraJobs connects talented Laravel developers with the companies who hire them. |
@@ -92,6 +91,7 @@ These remote job sites advertise a range of jobs in the tech industry.
 |    | Site                                                                                                           | Description                                                   |
 |----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
 | ❇️ | [EuropeRemotely](https://europeremotely.com/) | A curated list of remote jobs for workers based in Europe..       |
+| ❇️ | [Jobscribe](http://jobscribe.com) | Daily email with remote jobs at tech startups.       |
 
  ## License
 
