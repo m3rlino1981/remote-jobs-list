@@ -12,7 +12,6 @@ These remote job sites advertise a range of jobs in the tech industry.
 |----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
 | ❇️ | [AngelList](https://angel.co/) | AngelList is a top site for finding jobs with startups and can be used to search for remote work. |
 | ❇️ | [Authentic Jobs](https://authenticjobs.com/#remote=true) | Authentic Jobs board. |
-| ❇️ | [EuropeRemotely](https://europeremotely.com/) | A curated list of remote jobs for workers based in Europe..       |
 | ❇️ | [Flexjobs](https://www.flexjobs.com) | FlexJobs is an innovative, professional job service to help you find the best flexible jobs available, safely and easily. Every job is hand-screened and legitimate. Guaranteed.       |
 | ❇️ | [Github](https://jobs.github.com/positions?description=&location=remote) | Github allows you to search for remote jobs on its jobs board |
 | ❇️ | [Go Remote Jobs](https://goremotejobs.com/) | The best remote jobs for the digitally inclined.       |
@@ -88,6 +87,11 @@ These remote job sites advertise a range of jobs in the tech industry.
 | ❇️ | [Nomad House](https://nomadhouse.io/) | Kickstart your digital nomad journey in our coworking trips. |
 | ❇️ | [Remote Year](https://remoteyear.com/) | Travel, live, and work in a different remote city around the globe each month for a year. |
 
+### 🌏 Broken links / Closed sites
+
+|    | Site                                                                                                           | Description                                                   |
+|----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
+| ❇️ | [EuropeRemotely](https://europeremotely.com/) | A curated list of remote jobs for workers based in Europe..       |
 
  ## License
 
