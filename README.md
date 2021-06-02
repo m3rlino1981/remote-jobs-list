@@ -34,7 +34,6 @@ These remote job sites advertise a range of jobs in the tech industry.
 | ❇️ | [Skip the Drive](https://www.skipthedrive.com/) | SkipTheDrive is geared towards those seeking remote employment opportunities.   |
 | ❇️ | [Virtual Vocations](https://www.virtualvocations.com/) | This job board features only telecommuting jobs from technical writers to paralegals. |
 | ❇️ | [WeWorkRemotely](https://weworkremotely.com/) |We Work Remotely is the best place to find and list jobs that aren't restricted by commutes or a particular geographic area.   |
-| ❇️ | [WFH](https://www.wfh.io/) | WFH.io is a job board focusing on digital and tech remote jobs.        |
 | ❇️ | [Working Nomads](https://www.workingnomads.co/jobs) | Remote jobs for digital working nomads.        |
 
 
@@ -92,6 +91,7 @@ These remote job sites advertise a range of jobs in the tech industry.
 |----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
 | ❇️ | [EuropeRemotely](https://europeremotely.com/) | A curated list of remote jobs for workers based in Europe..       |
 | ❇️ | [Jobscribe](http://jobscribe.com) | Daily email with remote jobs at tech startups.       |
+| ❇️ | [WFH](https://www.wfh.io/) | (Now points to We work remotely.) WFH.io is a job board focusing on digital and tech remote jobs.        |
 
  ## License
 
